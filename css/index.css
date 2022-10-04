@@ -4,3 +4,4 @@
 @import "default_fonts.css@ver=4.9.3.css";
 @import "white_on_black.css@ver=4.9.3.css";
 @import "font-awesome.min.css@ver=4.9.3.css";
+@import "./nav/desktop_nav.css";

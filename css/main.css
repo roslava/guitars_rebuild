@@ -1,29 +1,96 @@
-body, .woocommerce .woocommerce-ordering select option {
+body,
+.woocommerce .woocommerce-ordering select option {
     background-color: #000000;
 }
 
-
-a:hover, .vibrant_hover:hover, .vibrant_hover a:hover, .lc_vibrant_color, .black_on_white .lc_vibrant_color, #recentcomments a:hover, .tagcloud a:hover, .widget_meta a:hover, .widget_pages a:hover, .widget_categories a:hover, .widget_recent_entries a:hover, .widget_archive a:hover, .lc_copy_area a:hover, .lc_swp_content a:hover, .lc_sharing_icons a:hover, .lc_post_meta a:hover, .post_item:hover > .post_item_details a h2, .lc_blog_masonry_brick.has_thumbnail .lc_post_meta a:hover, .post_item.no_thumbnail .lc_post_meta a:hover, .post_item:hover > a h2, .lucille_cf_error, .woocommerce ul.products li.product .price, .woocommerce div.product p.price, .woocommerce div.product span.price, .woocommerce-message:before, .woocommerce a.remove, .woocommerce-info:before, .woocommerce form .form-row .required, .woocommerce form .form-row.woocommerce-invalid label, a.about_paypal, .single_video_item:hover h3, .goto_next_section, .swp_single_artist:hover .artist_name, .single_artist_item .artist_title:hover {
+a:hover,
+.vibrant_hover:hover,
+.vibrant_hover a:hover,
+.lc_vibrant_color,
+.black_on_white .lc_vibrant_color,
+#recentcomments a:hover,
+.tagcloud a:hover,
+.widget_meta a:hover,
+.widget_pages a:hover,
+.widget_categories a:hover,
+.widget_recent_entries a:hover,
+.widget_archive a:hover,
+.lc_copy_area a:hover,
+.lc_swp_content a:hover,
+.lc_sharing_icons a:hover,
+.lc_post_meta a:hover,
+.post_item:hover > .post_item_details a h2,
+.lc_blog_masonry_brick.has_thumbnail .lc_post_meta a:hover,
+.post_item.no_thumbnail .lc_post_meta a:hover,
+.post_item:hover > a h2,
+.lucille_cf_error,
+.woocommerce ul.products li.product .price,
+.woocommerce div.product p.price,
+.woocommerce div.product span.price,
+.woocommerce-message:before,
+.woocommerce a.remove,
+.woocommerce-info:before,
+.woocommerce form .form-row .required,
+.woocommerce form .form-row.woocommerce-invalid label,
+a.about_paypal,
+.single_video_item:hover h3,
+.goto_next_section,
+.swp_single_artist:hover .artist_name,
+.single_artist_item .artist_title:hover {
     color: #000000;
 }
 
-.lc_swp_vibrant_bgc, .cart-contents-count, #recentcomments li:before, .lc_button:hover, .woocommerce a.button:hover, #commentform input#submit:hover, .single_track .mejs-controls .mejs-time-rail .mejs-time-current, .lc_blog_masonry_brick:hover > .post_item_details .lc_button, .woocommerce span.onsale, .woocommerce ul.products li.product:hover > a.button, .woocommerce button.button.alt:hover, .woocommerce #respond input#submit:hover, .woocommerce input.button:hover, input.button:hover, .woocommerce a.button.alt:hover, .woocommerce a.remove:hover, .woocommerce input.button.alt, .woocommerce input.button.alt:hover, .unslider-nav ol li.unslider-active, input[type="submit"]:hover {
+.lc_swp_vibrant_bgc,
+.cart-contents-count,
+#recentcomments li:before,
+.lc_button:hover,
+.woocommerce a.button:hover,
+#commentform input#submit:hover,
+.single_track .mejs-controls .mejs-time-rail .mejs-time-current,
+.lc_blog_masonry_brick:hover > .post_item_details .lc_button,
+.woocommerce span.onsale,
+.woocommerce ul.products li.product:hover > a.button,
+.woocommerce button.button.alt:hover,
+.woocommerce #respond input#submit:hover,
+.woocommerce input.button:hover,
+input.button:hover,
+.woocommerce a.button.alt:hover,
+.woocommerce a.remove:hover,
+.woocommerce input.button.alt,
+.woocommerce input.button.alt:hover,
+.unslider-nav ol li.unslider-active,
+input[type="submit"]:hover {
     background-color: #000000;
 }
 
-.lc_button:hover, input[type="submit"]:hover, .woocommerce a.button:hover, .lc_blog_masonry_brick:hover > .post_item_details .lc_button, .woocommerce ul.products li.product:hover > a.button, .woocommerce button.button.alt:hover, .woocommerce #respond input#submit:hover, input.button:hover, .woocommerce input.button:hover, .woocommerce .shop_table_responsive input.button, .white_on_black .woocommerce a.button.alt:hover, .woocommerce-info, .woocommerce form .form-row.woocommerce-invalid input.input-text, .unslider-nav ol li.unslider-active, input.lucille_cf_input:focus, textarea.lucille_cf_input:focus {
+.lc_button:hover,
+input[type="submit"]:hover,
+.woocommerce a.button:hover,
+.lc_blog_masonry_brick:hover > .post_item_details .lc_button,
+.woocommerce ul.products li.product:hover > a.button,
+.woocommerce button.button.alt:hover,
+.woocommerce #respond input#submit:hover,
+input.button:hover, .woocommerce input.button:hover,
+.woocommerce .shop_table_responsive input.button,
+.white_on_black .woocommerce a.button.alt:hover,
+.woocommerce-info,
+.woocommerce form .form-row.woocommerce-invalid input.input-text,
+.unslider-nav ol li.unslider-active,
+input.lucille_cf_input:focus,
+textarea.lucille_cf_input:focus {
     border-color: #000000 !important;
 }
 
 .header_inner {
-    background-color: #0c0c0c;
+    background-color: #e11616;
 }
 
 header.sticky_enabled .header_inner {
     background-color: #000000;
 }
 
-.header_inner.lc_mobile_menu, .mobile_navigation_container {
+.header_inner.lc_mobile_menu,
+.mobile_navigation_container {
     background-color: #000000;
 }
 
@@ -31,7 +98,12 @@ header.sticky_enabled .header_inner {
     border-bottom-color: #0c0c0c;
 }
 
-li.menu-item a, #logo a, .classic_header_icon, .classic_header_icon a, .classic_header_icon:hover, .classic_header_icon a:hover {
+li.menu-item a,
+#logo a,
+.classic_header_icon,
+.classic_header_icon a,
+.classic_header_icon:hover,
+.classic_header_icon a:hover {
     color: #ffffff;
 }
 
@@ -55,7 +127,9 @@ ul.sub-menu li.menu-item a:hover {
     border-left-color: #ffffff;
 }
 
-li.current-menu-item a, li.current-menu-parent a, li.current-menu-ancestor a {
+li.current-menu-item a,
+li.current-menu-parent a,
+li.current-menu-ancestor a {
     color: #ddb271;
 }
 
@@ -67,11 +141,14 @@ ul.sub-menu li {
     background-color: #000000;
 }
 
-.creative_header_icon, .creative_header_icon a, .creative_header_icon a.cart-contents:hover {
+.creative_header_icon,
+.creative_header_icon a,
+.creative_header_icon a.cart-contents:hover {
     color: #ffffff;
 }
 
-.creative_header_icon.lc_social_icon:hover, .creative_header_icon.lc_social_icon a:hover {
+.creative_header_icon.lc_social_icon:hover,
+.creative_header_icon.lc_social_icon a:hover {
     color: #000000;
 }
 
@@ -79,7 +156,8 @@ ul.sub-menu li {
     background-color: #ffffff;
 }
 
-.post_item.lc_blog_masonry_brick.no_thumbnail, .gallery_brick_overlay {
+.post_item.lc_blog_masonry_brick.no_thumbnail,
+.gallery_brick_overlay {
     background-color: rgba(255, 255, 255, 0.98);
 }
 
